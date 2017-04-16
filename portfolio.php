@@ -3,7 +3,7 @@
   
 <article id="post-146" class="post-146 page type-page status-publish hentry">
   <div class="entry-content">
-    <div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="page-title-container" style="background: #09131d url(wp-content/uploads/sites/3/2016/06/breadcrumb-1024x562.jpg) repeat fixed 0 0;">
+    <div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="page-title-container" style="background: #09131d url(images/breadcrumb/breadcrumb-1024x562.jpg) repeat fixed 0 0;">
     <div class="page-title custom-padding">
       <div class="container">
         <h1 class="title-center entry-title">Our Portfolio</h1>
