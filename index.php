@@ -666,16 +666,16 @@
 				<div class="row">
 					<div class="col-md-8">
 						<div class="parallex-text">
-							<h4>IMPRESSED WITH US ?</h4>
-							<p>Fusce non leo ut sapien volutpat volutpat tiam rutrum malesuada erat sollicitudin non. </p>
+							<h4>We are Hiring</h4>
+							<p>We hire people who have a passion for collaboration and delivering incredible products and solutions to world-class companies. We are looking for innovative, passionate people who take great pride in their work. We are looking for YOU! Apply today.</p>
 						</div>
 						<!-- end subsection-text --> 
 					</div>
 					<!-- end col-md-8 -->
 					<div class="col-md-4">
 						<div class="parallex-button"> 
-							<a class="section-scroll page-scroll btn btn-lg btn-clean" href="contactus.php"> 
-								Contact Us
+							<a class="section-scroll page-scroll btn btn-lg btn-clean" href="career.php"> 
+								View Available Positions
 							</a>
 						</div>
 						<!-- end parallex-button --> 
@@ -770,19 +770,58 @@
 				<!-- end price-section -->
 				</div>
 			</section></div></div></div></div><?php */?>
-			
-			<?php /*?><div class="vc_row wpb_row vc_row-fluid" style=""><div class="wpb_column vc_column_container vc_col-sm-12" style=""><div class="vc_column-inner " style=""><div class="wpb_wrapper" style=""><section data-stellar-background-ratio="0" class="parallex quote-bg section-padding-100 text-center" style="background: transparent url(&quot;wp-content/uploads/sites/3/2016/06/quote-bg-1024x768.jpg&quot;) no-repeat scroll 0px -7037.47px / cover ;">
+			<div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">  <section id="happt-clients" class="section-padding">
+				<div class="container">
+					<div class="section-title"> <strong>OUR HAPPY PARTNER'S</strong>
+						<h1 class="heading bold">WE LOVE WORK</h1>
+						<hr>
+					</div>
+					<!-- End title-section -->
+					<div class="row">
+						<div class="our-clients padding-top-30">
+							<div class="col-xs-6 col-sm-3 client-2">
+								<a href="#"><img alt="Partner" src="images/clients/50000volts.png"></a>
+							</div>      
+							<div class="col-xs-6 col-sm-3 client-2">
+								<a href="#"><img alt="Partner" src="images/clients/aakriti-logo.png"></a>
+							</div>  
+							<div class="col-xs-6 col-sm-3 client-2">
+								<a href="#"><img alt="Partner" src="images/clients/myhomeconstructions.png"></a>
+							</div> 
+							<div class="col-xs-6 col-sm-3 client-2">
+								<a href="#"><img alt="Partner" src="images/clients/traderstree.png"></a>
+							</div>  
+							<div class="col-xs-6 col-sm-3 client-2">
+								<a href="#"><img alt="Partner" src="images/clients/cid_ap_logo.png"></a>
+							</div> 
+							<div class="col-xs-6 col-sm-3 client-2">
+								<a href="#"><img alt="Partner" src="images/clients/air-canada-pilots-association-logo.png"></a>
+							</div> 
+							<div class="col-xs-6 col-sm-3 client-2">
+								<a href="#"><img alt="Partner" src="images/clients/kmv.png"></a>
+							</div>  
+							<div class="col-xs-6 col-sm-3 client-2">
+								<a href="#"><img alt="Partner" src="images/clients/prestige.png"></a>
+							</div>
+							
+						</div>
+					</div>
+					<!-- end row --> 
+				</div>
+				<!-- end container --> 
+			</section></div></div></div></div>
+			<div class="vc_row wpb_row vc_row-fluid" style=""><div class="wpb_column vc_column_container vc_col-sm-12" style=""><div class="vc_column-inner " style=""><div class="wpb_wrapper" style=""><section data-stellar-background-ratio="0" class="parallex quote-bg section-padding-100 text-center" style="background: transparent url(&quot;wp-content/uploads/sites/3/2016/06/quote-bg-1024x768.jpg&quot;) no-repeat scroll 0px -7037.47px / cover ;">
 				<div class="container">
 					<div class="row">
-						<div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1"> <em>Make Users Fall in Love With Your Website</em>
-							<h2> We design dreams </h2>
-						<a class="section-scroll btn btn-lg btn-clean" href="#"> Buy Now</a> </div>
+						<div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1"> <em>Need help building your product? </em>
+							<h2> Let's talk </h2>
+						<a class="section-scroll btn btn-lg btn-clean" href="contactus.php"> Contact Us</a> </div>
 						<!-- end col-md-8 --> 
 					</div>
 					<!-- end row --> 
 				</div>
 				<!-- end container --> 
-			</section></div></div></div></div><?php */?>
+			</section></div></div></div></div>
 			<?php /*?><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><section class="section-padding" id="blog">
 				<div class="container">
 				<div class="section-title"> <strong>LATEST NEWS</strong>
@@ -911,7 +950,7 @@
 				<!-- end container --> 
 				</section>
 				</div></div></div></div>
-			<?ph */?>
+			<?php */?>
 			<?php /*?><div class="vc_row wpb_row vc_row-fluid" style=""><div class="wpb_column vc_column_container vc_col-sm-12" style=""><div class="vc_column-inner " style=""><div class="wpb_wrapper" style=""><section id="clients-section" class="clients-bg" data-stellar-background-ratio="0.1" style="background: transparent url(&quot;images/breadcrumb/quote-bg-1024x768.jpg&quot;) no-repeat scroll 0px -7836.75px / cover ;">
 				<div class="container">
 				<div class="row"> 

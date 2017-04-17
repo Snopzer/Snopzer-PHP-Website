@@ -238,21 +238,28 @@
 						<div class="our-clients padding-top-30">
 							<div class="col-xs-6 col-sm-3 client-2">
 								<a href="#"><img alt="Partner" src="images/clients/50000volts.png"></a>
-								</div>    <div class="col-xs-6 col-sm-3 client-2">
-								<a href="#"><img alt="Partner" src="images/client_7.png"></a>
-								</div>    <div class="col-xs-6 col-sm-3 client-2">
+							</div>      
+							<div class="col-xs-6 col-sm-3 client-2">
 								<a href="#"><img alt="Partner" src="images/clients/aakriti-logo.png"></a>
-								</div>    <div class="col-xs-6 col-sm-3 client-2">
-								<a href="#"><img alt="Partner" src="images/clients/kmv.png"></a>
-								</div>    <div class="col-xs-6 col-sm-3 client-2">
+							</div>  
+							<div class="col-xs-6 col-sm-3 client-2">
 								<a href="#"><img alt="Partner" src="images/clients/myhomeconstructions.png"></a>
-								</div>    <div class="col-xs-6 col-sm-3 client-2">
+							</div> 
+							<div class="col-xs-6 col-sm-3 client-2">
+								<a href="#"><img alt="Partner" src="images/clients/traderstree.png"></a>
+							</div>  
+							<div class="col-xs-6 col-sm-3 client-2">
+								<a href="#"><img alt="Partner" src="images/clients/cid_ap_logo.png"></a>
+							</div> 
+							<div class="col-xs-6 col-sm-3 client-2">
+								<a href="#"><img alt="Partner" src="images/clients/air-canada-pilots-association-logo.png"></a>
+							</div> 
+							<div class="col-xs-6 col-sm-3 client-2">
+								<a href="#"><img alt="Partner" src="images/clients/kmv.png"></a>
+							</div>  
+							<div class="col-xs-6 col-sm-3 client-2">
 								<a href="#"><img alt="Partner" src="images/clients/prestige.png"></a>
-								</div>    <div class="col-xs-6 col-sm-3 client-2">
-								<a href="#"><img alt="Partner" src="images/clients/traderstree.png"></a>
-								</div>    <div class="col-xs-6 col-sm-3 client-2">
-								<a href="#"><img alt="Partner" src="images/clients/traderstree.png"></a>
-								</div>   
+							</div>
 						</div>
 					</div>
 					<!-- end row --> 
